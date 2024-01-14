@@ -21,3 +21,8 @@ pip install bs4
 3. On your first run you might have to quickly, manually accept the cookies. It might get stuck once you have done that but if you rerun main.py it'll usually work.
 4. Once it has finished you'll get an .xlsx file. There'll be a Original Data sheet and a Connections sheet. The Original Data sheet holds all single connections that have been scraped and the connections sheets has all the possible connections in them.
 5. Now you just have to compare the prices and durations and if you found a connection that suits you, just click on the two URLs provided in the right most colums.
+
+
+# Example
+Here is a picture of a couple of connections from Munich to Berlin via Nürnberg.
+[Example Sheet](https://github.com/Difio3333/BahnTicketWebScrapper/assets/86922197/76837fa5-ed94-4147-8f16-366da830d9d2)
